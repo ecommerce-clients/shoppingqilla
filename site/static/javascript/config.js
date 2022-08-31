@@ -1,0 +1,1 @@
+var SubDomain = 'shoppingqilla'; var SiteID = '495A6C3A-0EF4-4873-A0AE-0C947497FFBA'; var host = 'https://api.eraconnect.net';
